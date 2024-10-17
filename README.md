@@ -2,7 +2,7 @@
 <h3 align="center">i'm a tech enthusiast, strongly love Laravel, and im anime watcher</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogasungkowo" alt="yogasungkowo" /></a> </p>
-![](https://github.com/yogasungkowo/yogasungkowo/blob/main/anime_girl.gif)
+
 - I dont know what i just make [https://prasunk.my.id/](https://prasunk.my.id/)
 
 - Contact Me **prayogasungkowo12@gmail.com**
