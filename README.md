@@ -1,7 +1,6 @@
 # 📊 GitHub Stats:
-![yogasungkowo's Stats](https://github-readme-stats.vercel.app/api?username=yogasungkowo&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![yogasungkowo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogasungkowo&theme=radical&hide_border=true)
-![yogasungkowo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogasungkowo&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![yogasungkowo's Stats](https://github-readme-stats.vercel.app/api?username=yogasungkowo&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 # 💫 About Me:
 🎓 University: Universitas Muhammadiyah Sumatera Utara<br>💼 Current Role: Web Developer Intern at PT Perkebunan Nusantara IV<br>🔧 Skills:<br>* Frontend Development: HTML, CSS, JavaScript, React JS<br>* Backend & Frameworks: Laravel<br>* Design & User Experience: UI/UX Design<br>* Emerging Technologies: Cyber Security, IoT, AI/Machine Learning
