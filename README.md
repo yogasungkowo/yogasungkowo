@@ -1,6 +1,6 @@
 # 📊 GitHub Stats:
 ![yogasungkowo's Stats](https://github-readme-stats.vercel.app/api?username=yogasungkowo&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![yogasungkowo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogasungkowo&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![yogasungkowo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogasungkowo&theme=radical&show_icons=true&hide_border=true)
 
 # 💫 About Me:
 🎓 University: Universitas Muhammadiyah Sumatera Utara<br>💼 Current Role: Web Developer Intern at PT Perkebunan Nusantara IV<br>🔧 Skills:<br>
