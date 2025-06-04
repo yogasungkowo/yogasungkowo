@@ -3,7 +3,7 @@
 ![yogasungkowo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogasungkowo&theme=radical&show_icons=true&hide_border=true)
 
 # 💫 About Me:
-🎓 University: Universitas Muhammadiyah Sumatera Utara<br>💼 Current Role: Web Developer Intern at PT Perkebunan Nusantara IV<br>🔧 Skills:<br>
+🎓 University: Universitas Muhammadiyah Sumatera Utara<br>💼 Current Role: Software Engineer Intern at PT Perkebunan Nusantara IV<br>🔧 Skills:<br>
 * Frontend Development: HTML, CSS, JavaScript, React JS
 * Backend & Frameworks: Laravel
 * Design & User Experience: UI/UX Design
