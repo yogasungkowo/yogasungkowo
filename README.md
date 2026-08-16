@@ -1,6 +1,8 @@
 # 📊 GitHub Stats:
 <img src="https://streak-stats.demolab.com?user=yogasungkowo&theme=dark&hide_border=true" alt="yogasungkowo's GitHub Stats" />
 
+![snake gif](https://github.com/yogasungkowo/yogasungkowo/blob/output/github-snake-dark.svg)
+
 # 💫 About Me:
 🎓 University: Universitas Muhammadiyah Sumatera Utara<br>💼 Current Role: Software Engineer at Dinas Kominfostan Deli Serdang<br>🔧 Skills:<br>
 * Frontend Development: HTML, CSS, JavaScript, Laravel Inertia, Vue jS. React JS, NuxtJS
@@ -17,6 +19,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![snake gif](https://github.com/yogasungkowo/yogasungkowo/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
