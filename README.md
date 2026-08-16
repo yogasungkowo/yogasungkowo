@@ -1,6 +1,4 @@
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=yogasungkowo&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="yogasungkowo's GitHub Stats" />)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogasungkowo&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="yogasungkowo's GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=yogasungkowo&theme=dark&hide_border=true" alt="yogasungkowo's GitHub Stats" />
 
 # 💫 About Me:
